@@ -1,0 +1,1 @@
+select * from pizza_hut.order_details
